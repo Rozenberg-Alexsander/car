@@ -4,5 +4,6 @@ public class Main {
         Car.buy();
         Car.speed();
         Car.color();
+        Car.model();
     }
 }

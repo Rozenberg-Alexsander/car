@@ -7,6 +7,9 @@ public class Car {
         System.out.println("I will buy this car");
     }
 
+    public static void model() {
+        System.out.println("RAW4");
+    }
     public static void speed() {
         int carSpeed = 0;
         carSpeed = carSpeed + 100;
