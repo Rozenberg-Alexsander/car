@@ -6,9 +6,6 @@ public class Car {
     public static void buy() {
         System.out.println("I will buy this car");
     }
-    public static void model() {
-        System.out.println("RAV4");
-    }
 
     public static void speed() {
         int carSpeed = 0;
